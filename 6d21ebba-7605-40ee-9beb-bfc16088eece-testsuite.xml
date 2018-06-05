@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1505812882734" stop="1505812882765">
+	<name>Login to Bolt</name>
+	<title>Login to Bolt</title>
+	<test-cases>
+		<test-case start="1505812882734" stop="1505812882765" status="passed">
+			<name>Login to demo.bolty.blue</name>
+			<title>Login to demo.bolty.blue</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+				<step start="1505812882734" stop="1505812882734" status="broken">
+					<name>I have visited demo.bolty.blue</name>
+					<title>I have visited demo.bolty.blue</title>
+					<attachments>
+					</attachments>
+					<steps>
+					</steps>
+				</step>
+				<step start="1505812882734" stop="1505812882749" status="skipped">
+					<name>I enter userId &quot;abhisheksathe12@gmail.com&quot;</name>
+					<title>I enter userId &quot;abhisheksathe12@gmail.com&quot;</title>
+					<attachments>
+					</attachments>
+					<steps>
+					</steps>
+				</step>
+				<step start="1505812882749" stop="1505812882749" status="skipped">
+					<name>I enter password &quot;Pass@123&quot;</name>
+					<title>I enter password &quot;Pass@123&quot;</title>
+					<attachments>
+					</attachments>
+					<steps>
+					</steps>
+				</step>
+				<step start="1505812882749" stop="1505812882749" status="skipped">
+					<name>I click Login</name>
+					<title>I click Login</title>
+					<attachments>
+					</attachments>
+					<steps>
+					</steps>
+				</step>
+				<step start="1505812882749" stop="1505812882765" status="skipped">
+					<name>I see All Locations</name>
+					<title>I see All Locations</title>
+					<attachments>
+					</attachments>
+					<steps>
+					</steps>
+				</step>
+				<step start="1505812882765" stop="1505812882765" status="passed">
+					<name></name>
+					<title></title>
+					<attachments>
+					</attachments>
+					<steps>
+					</steps>
+				</step>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>
