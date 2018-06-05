@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1505812882734" stop="1505812882765">
+<ns2:test-suite xmlns:ns2="" start="1505812882734" stop="1505812882765">
 	<name>Login to Bolt</name>
 	<title>Login to Bolt</title>
 	<test-cases>
